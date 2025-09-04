@@ -31,7 +31,7 @@ const HomePage = () => {
             </svg>
           </div>
           <h1 className="text-6xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-6">
-            Quiz Master
+            React Quiz App
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Challenge your mind with our interactive quiz! Test your knowledge
