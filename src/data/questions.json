@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correct_answer": "Paris",
+      "category": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Mars",
+      "category": "Science: Astronomy",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo"
+      ],
+      "correct_answer": "Leonardo da Vinci",
+      "category": "Art",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Fe", "Cu"],
+      "correct_answer": "Au",
+      "category": "Science: Chemistry",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correct_answer": "1945",
+      "category": "History",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correct_answer": "Pacific Ocean",
+      "category": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correct_answer": "William Shakespeare",
+      "category": "Literature",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "correct_answer": "12",
+      "category": "Mathematics",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Which programming language was created by Brendan Eich?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "correct_answer": "JavaScript",
+      "category": "Science: Computers",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "What is the main component of the sun?",
+      "options": ["Liquid Lava", "Molten Iron", "Hot Gases", "Solid Rock"],
+      "correct_answer": "Hot Gases",
+      "category": "Science: Astronomy",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Which country is home to the kangaroo?",
+      "options": ["New Zealand", "South Africa", "Australia", "India"],
+      "correct_answer": "Australia",
+      "category": "Geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correct_answer": "Blue Whale",
+      "category": "Science: Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "John Adams",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "correct_answer": "George Washington",
+      "category": "History",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correct_answer": "Yen",
+      "category": "Geography",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oxygen", "Oganesson", "Iron"],
+      "correct_answer": "Oxygen",
+      "category": "Science: Chemistry",
+      "difficulty": "easy"
+    }
+  ]
+}
